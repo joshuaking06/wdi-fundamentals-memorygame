@@ -1,19 +1,20 @@
 body{
 	text-align: center;
+	margin: 0;
 }
 
 h1{
 	font-family: Raleway;
-	color: #0D2C40;
+	color: #ffffff;
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 45px;
+	margin: 0;
 }
 
 .main-links{
 	text-decoration: none;
 	font-family: Raleway;
-	color: #f15b31;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
@@ -40,4 +41,35 @@ h3{
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 20px;
+}
+
+header{
+	background-color: #f15B31;
+	color: #ffffff;
+	padding: 30px 20px;
+}
+
+nav{
+	background-color: #00a6b3;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+nav a{
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+main{
+	width: 850px;
+	margin: 35px auto;
+}
+
+img{
+	margin-top: 40px;
+	margin-right: 8px;
+	margin-left: 8px;
 }
